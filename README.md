@@ -1,1 +1,1 @@
-# Docs
+<h2 align='center'> <img src="https://cdn.topiclist.xyz/images/png/DiscordInflux_logo.png" height='100px' width='100px' /> <br> Influx-Docs </h2> <p align="center"> Code For Discord-Influx-Docs </p> <hr> Coded In: <img src="https://skillicons.dev/icons?i=next,ts&theme=dark" />
